@@ -19,4 +19,6 @@ Paste that command to your terminal, where your current directory is that of the
 
 ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_play.png)
 
+When you `swimm play` - the Unit is activated in a different branch called `swimm`. All your operations while playing the Unit will happen in this branch.
+
 On the next step we'll get to know common commands used in Swimm's CLI.
