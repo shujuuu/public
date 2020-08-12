@@ -23,6 +23,7 @@ You will also be prompted to mark the Unit as Done in case the tests in `swimm t
 
 # Let's complete the Unit
 Let's implement `print_with_indexes`:
+
 ![](https://github.com/swimmio/public/raw/master/screenshots/print_with_indexes_solution.png)
 
 And run `swimm test`. The tests should pass and we will be prompted to revert our repo to the source branch:
