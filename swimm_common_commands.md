@@ -3,6 +3,7 @@ On the previous step we used `swimm play`:
 ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_play.png)
 
 In this simple example, we should implement `print_with_indexes`:
+
 ![](https://github.com/swimmio/public/raw/master/screenshots/print_with_indexes.png)
 
 # swimm hint
@@ -27,6 +28,7 @@ Let's implement `print_with_indexes`:
 ![](https://github.com/swimmio/public/raw/master/screenshots/print_with_indexes_solution.png)
 
 And run `swimm test`. The tests should pass and we will be prompted to revert our repo to the source branch:
+
 ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_test_success.png)
 
 At this point we will also get a summary page - showing a few helpful things:
