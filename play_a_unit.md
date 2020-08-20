@@ -1,4 +1,4 @@
-👍  Congrats! You are actually playing a Unit as you read this sentence. 
+Congrats! You are actually playing a Unit as you read this sentence. 
 
 To demonstrate how this works with Code, let’s look at some screenshots from an example of a public repo by Swimm - Python Best Practices. It covers Python from basics to advanced but will look at an example from it’s first Unit on Data Structures: 
 
@@ -9,6 +9,7 @@ To demonstrate how this works with Code, let’s look at some screenshots from a
 Step 1 normally provides all of the relevant information a Swimmer might need to get started.
 
 To play a Unit from the repo: 
+
 
    **1.** Click anywhere on the grey box starting with `swimm play` - and this command will be copied to your clipboard.
    
@@ -22,6 +23,8 @@ To play a Unit from the repo:
    
    **4.** On the next step we'll get to know common commands used in Swimm's CLI.
    
+   
 
-💡  Bonus: You can install Swimm’s public playlist - Python Best Practices, by using the following command from your terminal: `swimm install https://github.com/swimmio/python_best_practices.git` and follow along.
+>💡 Bonus: You can install Swimm’s public playlist - Python Best Practices, by using the following command from your terminal: 
+>`swimm install https://github.com/swimmio/python_best_practices.git` and follow along.
 
