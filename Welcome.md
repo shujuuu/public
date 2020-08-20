@@ -1,7 +1,12 @@
-Welcome to Swimm! 👋
+**Hey** 👋
 
-We believe that a great onboarding process consists of clear hands-on walkthroughs. In Swimm, we call them **Units** - walkthroughs that have been generated from your codebase, by people in your team and organization, to learn and start contributing to. 😎
+Welcome to an intro Playlist to Swimm. You’re about to walk through some carefully  selected Swimm highlights. Playlists usually include several Units that help navigate new codebases, or tasks and documentation also directly linked to a repo of choice. 
 
-**Playlists** are ordered sequences of Units. You are currently within the `Getting Started with Swimm` Playlist. In this short Playlist we will show you how to play a Unit.
+There are 3 Units in this Playlist: 
+How to Play Units
+Swimm commands
+Find more Swimm resources
 
-If you have any question at all, you can always email us at `info@swimm.io`.
+**Tip** You don’t have to complete a Unit before moving to the next one, feel free to skim, skip, explore, and come back when you need to. 
+
+If you have any questions at all, you can always email us at info@swimm.io.
