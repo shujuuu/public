@@ -47,12 +47,7 @@ You will also be prompted to mark the Unit as Done in case the tests in `swimm t
 
 # Completing the Unit
 
-Now that we know how to solve it, let's implement `print_with_indexes`:
-
-![](https://github.com/swimmio/public/raw/master/screenshots/print_with_indexes_solution.png)
-
-
-And run `swimm test` to check if it is correct. The tests should pass and we will be prompted to revert our repo to the source branch:
+Now that we know how to solve it, let's implement `print_with_indexes`, and run `swimm test` to check if it is correct. The tests should pass and we will be prompted to revert our repo to the source branch:
 
 ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_test_success.png)
 
