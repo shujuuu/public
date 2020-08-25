@@ -1,12 +1,10 @@
 Congrats! You are actually playing a Unit as you read this sentence. 
 
-To demonstrate how this works with Code, let’s look at some screenshots from an example of a public repo by Swimm - Python Best Practices. It covers Python from basics to advanced but will look at an example from it’s first Unit on Data Structures: 
+To demonstrate how this works with Code, let’s look at some screenshots from an example of a public repo by Swimm - Python Best Practices. 
 
+Let's look at an example from the first Unit on Data Structures: 
 
 ![](https://github.com/swimmio/public/raw/master/screenshots/unit_view_not_started.png)
-
-
-Step 1 normally provides all of the relevant information a Swimmer might need to get started.
 
 To play a Unit from the repo: 
 
