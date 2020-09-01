@@ -4,7 +4,11 @@ You’re almost done! One last thing for the road - our most handy resources.
 &nbsp;
 
 
-**[Swimm Docs] (https://docs.swimm.io/en/collections/2510899-swimm-docs)**
+
+&nbsp;
+
+
+**[Swimm Docs](https://docs.swimm.io/en/collections/2510899-swimm-docs)**
 
 &nbsp;
 
@@ -12,7 +16,14 @@ We have a shiny new learning hub with FAQs, tips and a commands wiki. Just click
 
 &nbsp;
 
-**[Creating a New Unit] (https://docs.swimm.io/en/articles/4342999-how-to-create-a-unit)**
+
+
+&nbsp;
+**[Creating a New Unit](https://docs.swimm.io/en/articles/4342999-how-to-create-a-unit)**
+
+
+&nbsp;
+
 
 
 &nbsp;
@@ -22,6 +33,10 @@ We have a shiny new learning hub with FAQs, tips and a commands wiki. Just click
 &nbsp;
 
 When you are on your “My Swimm Page”, on the top hand corner of the screen you will see the “Invite Swimmer” button. As long as you are the Admin of a repo, you can invite more users to join your Swimm workspace. 
+
+
+
+&nbsp;
 
 
 &nbsp;
