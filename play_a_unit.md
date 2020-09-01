@@ -8,7 +8,7 @@ Let's look at an example from the first Unit on Data Structures:
 
 &nbsp;
 
-![](https://github.com/swimmio/public/raw/master/screenshots/unit_view_not_started.png =400x)
+![](https://github.com/swimmio/public/raw/master/screenshots/unit_view_not_started.png)
 
 
 &nbsp;
@@ -27,7 +27,7 @@ To play a Unit from the repo:
 &nbsp;
    
 
-   ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_play.png =400x)
+   ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_play.png)
    
    
 &nbsp;
