@@ -1,5 +1,6 @@
 Here are some useful commands you will want to get to know:  
 
+
 &nbsp;
 
 - `swimm play`
@@ -13,13 +14,18 @@ Here are some useful commands you will want to get to know:
 
 **Swimm Play**
 
+
 &nbsp;
 
 On the previous step we used `swimm play` and the Unit Key to start the 'Printing with Indexes' Unit inside the repo we are using as an example (python_best_practices). This is what we after entering this command:
 
+
+
 &nbsp;
 
 ![](https://github.com/swimmio/public/raw/master/screenshots/swimm_play.png)
+
+ 
 
 &nbsp;
 
