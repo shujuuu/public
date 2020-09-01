@@ -1,19 +1,34 @@
-Swimm comes with a lot of useful commands, you should know these as well:
+You’re almost done! One last thing for the road - our most handy resources. 
 
-**swimm --help**
 
-For the full list of commands, and more.
+&nbsp;
 
-**swimm solution** 
 
-To see the current Unit's solution.
+**[Swimm Docs] (https://docs.swimm.io/en/collections/2510899-swimm-docs)**
 
-**swimm reset**
+&nbsp;
 
-Reset the active Unit's state and get back to the branch you started swimming from (e.g., `master`).
+We have a shiny new learning hub with FAQs, tips and a commands wiki. Just click on Help (top left hand corner of the browser) to visit the knowledge base.
 
-**I want more help**
+&nbsp;
 
-You can always click on `Help` in the top part of the browser - and see our knowledge base.
+**[Creating a New Unit] (https://docs.swimm.io/en/articles/4342999-how-to-create-a-unit)**
 
-Still unsure about something? Contact `support@swimm.io`.
+
+&nbsp;
+
+**Inviting a friend**
+
+&nbsp;
+
+When you are on your “My Swimm Page”, on the top hand corner of the screen you will see the “Invite Swimmer” button. As long as you are the Admin of a repo, you can invite more users to join your Swimm workspace. 
+
+
+&nbsp;
+
+**Swimm Support** 
+
+
+&nbsp;
+
+We’re just an email away at support@swimm.io or even a chatbot away (Someone from The Swimm R&D team will personally get back to you as soon as possible).
