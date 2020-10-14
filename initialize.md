@@ -1,5 +1,7 @@
 ### Swimm acts as an add-on to any codebase and is accessible locally to all its contributors.
-</br></br>
+</br>
+![](https://github.com/swimmio/public/raw/master/screenshots/1.png)
+</br>
 Once you start Swimm for the first time, you will be prompted with the options to
 To either join an existing repository (‘join’) or start a new one (‘initialize’).
 </br></br>
