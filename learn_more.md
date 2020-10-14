@@ -5,7 +5,7 @@ There really is no right or wrong way to start swimming - freestyle is warmly ac
 </br>
 
 # 📚  
-More information on how to Swimm awaits in our **[Docs learning hub](https://docs.swimm.io/en/collections/2510899-swimm-docs)**.</br></br>
+More information on how to Swimm awaits in our **[Docs learning hub](https://docs.swimm.io/en/collections/2510899-swimm-docs)**.</br>
 
 # 💬  
-Have any questions or feedback? We'd love to hear from you. Contact us at **support@swimm.io**.</br></br>
+Have any questions or feedback? We'd love to hear from you. Contact us at **support@swimm.io**.</br></br></br>
