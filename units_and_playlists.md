@@ -1,7 +1,6 @@
 ### Units and Playlists are where the action happens. 
 </br>
 
-</br> 
 
 Highly coupled with the code, Units are tutorials that walk you through different areas, help you checkout patterns or recurring issues for example, using commands in your CLI.
 </br></br>
