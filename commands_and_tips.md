@@ -1,9 +1,6 @@
-### Swimm uses CLI commands for playing units, opening the app and exploring and checking for updates and maintanace.  
+### CLI commands for playing units, opening the app and exploring and checking for updates and maintanace.  
 
 </br>
-
-![](https://github.com/swimmio/public/raw/master/screenshots/6.png)
-
 </br>
 Here is a quick list of 8 main commands to get started:
  </br></br></br>
