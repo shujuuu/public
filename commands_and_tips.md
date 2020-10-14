@@ -1,9 +1,8 @@
 ### CLI commands for playing units, opening the app and exploring and checking for updates and maintanace.  
 
 </br>
-</br>
 Here is a quick list of 8 main commands to get started:
- </br></br></br>
+ </br></br>
  
 `swimm install`  </br> Install a repo with Swimm (default - install the current repo) </br></br>
 `swimm start` </br>  Starting Swimm local server. </br></br>
