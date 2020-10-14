@@ -1,4 +1,4 @@
-### Ready to Swimm
+### Start Swimming
 
 Some teams use swimm for documenting, some for mentoring and others for leveling up. </br>
 There really is no right or wrong way to start swimming - freestyle is warmly accepted. 
