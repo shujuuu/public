@@ -10,6 +10,6 @@ To either join an existing repository (‘join’) or start a new one (‘initia
  In order to create, utilize and access all the interactive Swimm content and tutorials (called Units and Playlists) on the repos you need to have them cloned locally to your machine. Another way to initialize a repo is by doing that in your terminal instead of in the UI. To do so, cd to the repo folder in your terminal and use the command swimm start.
  </br>
  
-# 🌎
+# 🤿
 
 If you don’t have any repository yet and want to explore Swimm first, check our Swimm Open Source section in the Home and click to clone and install it to start swimming.
