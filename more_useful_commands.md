@@ -12,7 +12,7 @@ Watch this video for a visual explanation:
 [![Click for Swimm Demo Video](https://github.com/swimmio/public/blob/master/screenshots/demo4.png?raw=true)](https://youtu.be/OZ1NyEGBMAY)
 </br></br></br>
  
-Integrating Swimm into your CI:
+### Integrating Swimm into your CI
 If you want to keep your units up-to-date as the code changes, you can integrate Swimm into your CI, to see what units are outdated or can be automatically synced, by using the swimm verify command. Please read this doc for more information.
 Watch this video for an example:
 </br></br>
