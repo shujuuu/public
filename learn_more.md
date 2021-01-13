@@ -16,7 +16,7 @@ Most units have code snippets in them. We use this to map them on your repo’s 
 </br></br>
 Watch this video for a visual explanation:
 </br></br>
-[![Click for Swimm Demo Video](https://github.com/swimmio/public/blob/master/screenshots/demo3.png?raw=true)](https://youtu.be/s67vljIj_3c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FeaI9IFmmxc?start=343" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </br></br></br>
 ### Plans
 Playlists can only link to units that relate to a specific repository. If your team is using multiple repositories, you can create Plans on your Workspace. Use Plans to link to units or playlists across several repositories. You can also create different Plans for different teams and/or different onboarding processes. Another use for a Plan is to join a few Playlists together, one after the other.
