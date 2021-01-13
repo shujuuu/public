@@ -1,9 +1,17 @@
-**Hey** 👋
-
-Welcome to an intro Playlist to Swimm. You’re about to walk through some carefully  selected Swimm highlights. Playlists usually include several Units that help navigate new codebases, or tasks and documentation also directly linked to a repo of choice. 
-
-There are 3 Units in this Playlist: How to Play Units, Swimm commands, Find more Swimm resources.
-
-> **💡 Tip:** You don’t have to complete a Unit before moving to the next one, feel free to skim, skip, explore, and come back when you need to. 
-
-If you have any questions at all, you can always email us at info@swimm.io.
+Swimm units and docs are saved on your repository in a directory named swm as .swm files. </br> They are shared and synced with the rest of the team the same way that code is, using Git. 
+</br> </br> 
+.swm files are readable. Open the one that corresponds to the unit you created to see how it’s built.
+</br> </br> </br> 
+See this video for more information:
+</br> </br> 
+[![Click for Swimm Demo Video](https://github.com/swimmio/public/blob/master/screenshots/demo6.png?raw=true)](https://youtu.be/ss86XuP3RF8)
+</br> </br> </br> 
+If you want to share specific content immediately, click the invite button on the top banner:
+</br> </br> 
+![](https://github.com/swimmio/public/blob/master/screenshots/invite.png?raw=true)
+</br> </br> </br> 
+You can also copy a link to a unit, a playlist or a repository. Click here:
+</br> </br> 
+![](https://github.com/swimmio/public/blob/master/screenshots/share.png?raw=true)
+</br> </br> </br> 
+ 
