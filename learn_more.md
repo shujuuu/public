@@ -18,6 +18,7 @@ Watch this video for a visual explanation:
 </br></br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FeaI9IFmmxc?start=343" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </br></br></br>
+
 ### Plans
 Playlists can only link to units that relate to a specific repository. If your team is using multiple repositories, you can create Plans on your Workspace. Use Plans to link to units or playlists across several repositories. You can also create different Plans for different teams and/or different onboarding processes. Another use for a Plan is to join a few Playlists together, one after the other.
 </br></br>
