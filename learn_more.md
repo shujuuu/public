@@ -3,7 +3,8 @@ Swimm helps you to organize your content and find it in several ways.
 
 ### Playlists
 
-Playlists, like the one you are in now, are step by step flows of Units, README files, Videos and/or Links that can give you a structured approach on how to explore the repo.
+Playlists, like the one you are in now, are step by step flows of Docs, Exercises, README files, Videos and/or Links that can give you a structured approach on how to explore the repo.
+
 </br></br>
 ![](https://github.com/swimmio/public/blob/master/screenshots/playlist.png?raw=true)
 </br></br></br>
