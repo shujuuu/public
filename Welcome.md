@@ -1,6 +1,6 @@
 Swimm Docs and Exercises are saved on your repository in a directory named `.swm` as files with the `.swm` extension. </br> They are shared and synced with the rest of the team the same way that code is, using Git.
 </br> </br>
-`.swm` files are readable. Open the one that corresponds to the unit you created to see how it’s built.
+`.swm` files are readable. Open the one that corresponds to the Swimm Doc you created to see how it’s built.
 </br> </br> </br>
 See this video for more information:
 </br> </br>
