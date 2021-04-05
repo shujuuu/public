@@ -26,7 +26,7 @@ In many cases, though the code has changed, our algorithm will determine that th
 ![](https://github.com/swimmio/public/blob/master/screenshots/mantainance-autosync.png?raw=true)
 </br></br>
 
-Watch this short video to see some examples. Then try to make some changes to the code you used for the unit you created, and refresh Swimm to see what happens
+Watch this short video to see some examples. Then try to make some changes to the code you used for the Doc you created, and refresh Swimm to see what happens
 </br></br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FeaI9IFmmxc?start=129" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
