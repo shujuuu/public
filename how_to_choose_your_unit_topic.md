@@ -1,8 +1,8 @@
-The starting point of creating a Unit is to think on parts of your code that demonstrate important concepts of your repo’s structure and logic, and then break those into tangible exercises. 
+The starting point of creating a Docs is to think on parts of your code that demonstrate important concepts of your repo’s structure and logic, and then break those into tangible exercises.
 
-Below you can find 3 different approaches to define your Unit topic used by Swimmers:
+Below you can find 3 different approaches to define your Docs topic used by Swimmers:
 
-# 🔎  Identify recurring patterns
+# 🔎 Identify recurring patterns
 
 Recognize one recurring pattern and explain how you would approach it.
 
@@ -10,15 +10,15 @@ Recognize one recurring pattern and explain how you would approach it.
 
 "Our system recognizes new devices on the network - So, every time we support a new device, we create a class for it, which inherits from Device."
 
-# 🎯  Display Common Topics 
+# 🎯 Display Common Topics
 
-Map the the topics everyone on the team should know and write a Unit for each topic.
+Map the the topics everyone on the team should know and write a Doc for each topic.
 
 ## Example
 
 Modules / libraries: Which ones should every person joining your team know?
 
-# ⛏️  The First-Task Approach
+# ⛏️ The First-Task Approach
 
 Map what the first task should look like and what is important to know before starting.
 
