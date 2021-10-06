@@ -12,6 +12,3 @@ Checkout the folder tree on the left of your repo view. Most docs have code snip
 
 ![Tree View](https://github.com/swimmio/public/blob/master/screenshots/treeview.png?raw=true)
 </br></br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FeaI9IFmmxc?start=343" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</br></br>
